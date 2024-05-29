@@ -7,7 +7,7 @@ let velocidadeXBolinha = 6;
 let velocidadeYBolinha = 6;
 
 //variaveis da minha raquete     
-let XRaquete = 5;nto5/ping-po-java
+let XRaquete = 5;
 let YRaquete =150;
 let raqueteComprimento = 10;
 let raqueteAltura = 90;
